@@ -3,6 +3,8 @@ package com.algaworks.algafoodauth;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
+import com.algaworks.algafoodauth.core.Base64ProtocalResolver;
+
 @SpringBootApplication
 public class AlgafoodAuthApplication {
 
